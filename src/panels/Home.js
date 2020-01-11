@@ -17,6 +17,8 @@ import Icon24LogoLivejournal from '@vkontakte/icons/dist/24/logo_livejournal';
 import Icon24Flash from '@vkontakte/icons/dist/24/flash';
 import Icon24Write from '@vkontakte/icons/dist/24/write';
 import Icon24Users from '@vkontakte/icons/dist/24/users';
+import Icon24Services from '@vkontakte/icons/dist/24/services';
+import Icon24VideoFillNone from '@vkontakte/icons/dist/24/video_fill_none';
 
 const Home = ({go, id, fetchedUser}) => (
 
@@ -58,29 +60,40 @@ const Home = ({go, id, fetchedUser}) => (
                 
                 <Group title="Полезные ссылки">
                   <Div>
-                <Button size="xl" level="2" component="a" href="#" before={
+                <Button size="xl" level="2" component="a" href="https://vk.com/@gameexperts-faq-game" before={
                   <Icon24Flash width={30} height={30}/>}>
                    Оригинал FAQ
                 </Button>
                 <br/>
-                <Button size="xl" level="commerce" component="a" href="#" before={
+                <Button size="xl" level="commerce" component="a" href="https://vk.com/topic-190547765_40740323" before={
                   <Icon24Write width={30} height={30}/>}>
                     Предложить идею
                 </Button>
                 <br/>
-                <Button size="xl" level="2" component="a" href="#" before={
+                <Button size="xl" level="2" component="a" href="https://vk.com/gameexperts" before={
                   <Icon24Game width={30} height={30}/>}>
                     Группа "Эксперты Игры"
                 </Button>
                 <br/>
-                <Button size="xl" level="2" component="a" href="#" before={
+                <Button size="xl" level="2" component="a" href="https://vk.com/vkexperts" before={
                   <Icon24Users width={30} height={30}/>}>
                     Группа "Эксперты ВКонтакте"
+                </Button>
+                <br/>
+                <Button size="xl" level="2" component="a" href="https://vk.com/app7171491" before={
+                  <Icon24Services width={30} height={30}/>}>
+                    Карточка эксперта(mob)
+                </Button>
+                <br/>
+                <Button size="xl" level="2" component="a" href="https://vk.com/experts" before={
+                  <Icon24VideoFillNone width={30} height={30}/>}>
+                    Карточка эксперта(desk)
                 </Button>
                 
             </Div>
             <br/>
-        <br/>
+            <br/>
+        
           
           </Group>
 
