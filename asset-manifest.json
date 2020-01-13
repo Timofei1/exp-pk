@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/exp-pk/static/js/main.73abade5.chunk.js",
+    "main.js.map": "/exp-pk/static/js/main.73abade5.chunk.js.map",
+    "runtime-main.js": "/exp-pk/static/js/runtime-main.aa6a19c2.js",
+    "runtime-main.js.map": "/exp-pk/static/js/runtime-main.aa6a19c2.js.map",
+    "static/css/2.2cfa1b23.chunk.css": "/exp-pk/static/css/2.2cfa1b23.chunk.css",
+    "static/js/2.1f284822.chunk.js": "/exp-pk/static/js/2.1f284822.chunk.js",
+    "static/js/2.1f284822.chunk.js.map": "/exp-pk/static/js/2.1f284822.chunk.js.map",
+    "index.html": "/exp-pk/index.html",
+    "precache-manifest.45d9ad2846460150e56d87f3b5d7cb2c.js": "/exp-pk/precache-manifest.45d9ad2846460150e56d87f3b5d7cb2c.js",
+    "service-worker.js": "/exp-pk/service-worker.js",
+    "static/css/2.2cfa1b23.chunk.css.map": "/exp-pk/static/css/2.2cfa1b23.chunk.css.map",
+    "static/media/persik.png": "/exp-pk/static/media/persik.49e2f0ce.png",
+    "static/media/persik1.png": "/exp-pk/static/media/persik1.4de00b32.png",
+    "static/media/persik2.png": "/exp-pk/static/media/persik2.d3dc3f55.png",
+    "static/media/persik3.png": "/exp-pk/static/media/persik3.67ee4bf7.png",
+    "static/media/persik4.png": "/exp-pk/static/media/persik4.53011614.png",
+    "static/media/persik5.png": "/exp-pk/static/media/persik5.bf0b65e0.png"
+  }
+}
